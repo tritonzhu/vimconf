@@ -1,9 +1,9 @@
 .vimrc file backup
 
 # To use:
-> cd ~
+> $ cd ~
 >
-> git clone git@github.com:tritonzhu/vimconf.git .vim
+> $ git clone git@github.com:tritonzhu/vimconf.git .vim
 >
-> ln -s .vim/vimrc .vimrc
+> $ ln -s .vim/vimrc .vimrc
 
