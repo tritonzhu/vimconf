@@ -5,7 +5,7 @@ just clone it into ~/.vim/ and install vundle to manage the plugins
 
     cd ~
     git clone git@github.com:tritonzhu/vimconf.git .vim
-    ln -s .vim/vimrc .vimr
+    ln -s .vim/vimrc .vimrc
     git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     vim +PluginInstall +qall
     
