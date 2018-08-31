@@ -10,7 +10,7 @@ just clone it into ~/.vim/ and install vundle to manage the plugins
     vim +PluginInstall +qall
     
 ## Color Scheme 
-[molokai](https://github.com/tomasr/molokai): a pretty color scheme
+[molokai](https://github.com/tomasr/molokai): a nice color scheme
 
 ## Plugins
 to be added
